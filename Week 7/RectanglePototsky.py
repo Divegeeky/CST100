@@ -135,21 +135,5 @@ def makevalues(): #-- define the function
 mainfunction() #-- I looked into another way of doing this by using the if name == "__main__": function but I couldn't figure it out by the time it was necessary to
 #-- Turn this in, however I will definitely be doing more python in the future!
 
-##_------- Dr. Bansal and Sai Kiran Neelakantam ------###
-### It has been an absolute pleasure to be in your class, despite the difficulty of learning a new subject I have been extremely entertained.
-### This may not have been my first programming class, however it has been the best one by far. The assignments were interesting and difficult, yet not too
-### Difficult that it could not have been accomplished. My 12 year old daughter was so facinated by some of the work that I have been doing in this class
-### That she is trying to learn this herself. She asked for a Python projects for kids book for Christmas, and I will happily oblige her in this present. We are
-### Both doing python work together after seeing the wonderful projects that Rasberry Pi has, and I think it is an amazing stepping stone into more technological
-### Aspirations for my kids. Thank you again!
-###
-### Jason J. Pototsky
-### Jpototsk@email.arizona.edu
-### Information Technology Support Analyst, Senior
-### FSO Information Technology
-### Financial Services Office
-### The University of Arizona
-### Phone: (520) 626-6392
-
 
 #------------------------------------- End Region Main ------------------------------------------------------------
